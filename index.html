@@ -192,6 +192,10 @@
 
         const nim = document.getElementById("nim").value;
         const nama = document.getElementById("nama").value;
+        if (!nim || !nama) {
+            alert("Nim dan Nama Wajib diisi!");
+            return;
+        }
         const alamat = document.getElementById("alamat").value;
         const jk = document.querySelector('input[name="jk"]:checked')?.value || "-";
 
