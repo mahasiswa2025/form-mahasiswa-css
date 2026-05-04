@@ -30,7 +30,8 @@ Aplikasi ini berupa form input data mahasiswa berbasis web menggunakan HTML, CSS
 ---
 
 ## 📷 Tampilan
-![alt text](image.png)
+<img width="977" height="789" alt="Cuplikan layar 2026-05-04 222339" src="https://github.com/user-attachments/assets/42ec5205-dc78-438e-a68f-9e4959152166" />
+
 
 ---
 
